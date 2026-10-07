@@ -1,0 +1,38 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.bit
+*.bin
+*.ltx
+*.xpr
+*.xsa
+
+# Vivado directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+
+# OpenROAD generated files
+openroad/results/
+openroad/logs/
+openroad/reports/
+openroad/objects/
+openroad/outputs/
+
+# Generic build/output
+build/
+dist/
+*.o
+*.so
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
